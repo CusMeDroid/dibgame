@@ -1,0 +1,204 @@
+{
+	"game":
+	[
+	{
+		"0":"20",
+		"id":"20",
+		"1":"Pipe Flow",
+		"game":"Pipe Flow",
+		"2":"https://demonisblack.com/code/2019/pipeflow/game/",
+		"main":"https://demonisblack.com/code/2019/pipeflow/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_pipeflow.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_pipeflow.png"
+	},
+	{
+		"0":"19",
+		"id":"19",
+		"1":"Tap Supermarket",
+		"game":"Tap Supermarket",
+		"2":"https://demonisblack.com/code/2020/tapsupermarket/game/",
+		"main":"https://demonisblack.com/code/2020/tapsupermarket/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_tapsupermarket.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_tapsupermarket.png"
+	},
+	{
+		"0":"18",
+		"id":"18",
+		"1":"Rearrange Letters 2",
+		"game":"Rearrange Letters 2",
+		"2":"https://demonisblack.com/code/2019/rearrangeletters2/game/",
+		"main":"https://demonisblack.com/code/2019/rearrangeletters2/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_rearrangeletters2.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_rearrangeletters2.png"
+	},
+	{
+		"0":"17",
+		"id":"17",
+		"1":"Super Blocks",
+		"game":"Super Blocks",
+		"2":"https://demonisblack.com/code/2022/superblocks/game/",
+		"main":"https://demonisblack.com/code/2022/superblocks/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_superblocks.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_superblocks.png"
+	},
+	{
+		"0":"16",
+		"id":"16",
+		"1":"Memory Game",
+		"game":"Memory Game",
+		"2":"https://demonisblack.com/code/2022/memorygame/game/",
+		"main":"https://demonisblack.com/code/2022/memorygame/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_memorygame.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_memorygame.png"
+	},
+	{
+		"0":"15",
+		"id":"15",
+		"1":"Lucky Wheels",
+		"game":"Lucky Wheels",
+		"2":"https://demonisblack.com/code/2017/luckywheels/game/",
+		"main":"https://demonisblack.com/code/2017/luckywheels/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_luckywheels.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_luckywheels.png"
+	},
+	{
+		"0":"14",
+		"id":"14",
+		"1":"New Soccer",
+		"game":"New Soccer",
+		"2":"https://demonisblack.com/code/2018/newsoccer/game/",
+		"main":"https://demonisblack.com/code/2018/newsoccer/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_newsoccer.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_newsoccer.png"
+	},
+	{
+		"0":"13",
+		"id":"13",
+		"1":"Speed Racer",
+		"game":"Speed Racer",
+		"2":"https://demonisblack.com/code/2017/speedracer/game/",
+		"main":"https://demonisblack.com/code/2017/speedracer/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_speedracer.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_speedracer.png"
+	},
+	{
+		"0":"12",
+		"id":"12",
+		"1":"Bingo Bash",
+		"game":"Bingo Bash",
+		"2":"https://demonisblack.com/code/2017/bingobash/game/",
+		"main":"https://demonisblack.com/code/2017/bingobash/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_bingobash.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_bingobash.png"
+	},
+	{
+		"0":"11",
+		"id":"11",
+		"1":"Liquid Sort",
+		"game":"Liquid Sort",
+		"2":"https://demonisblack.com/code/2022/liquidsort/game/",
+		"main":"https://demonisblack.com/code/2022/liquidsort/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_liquidsort.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_liquidsort.png"
+	},
+	{
+		"0":"10",
+		"id":"10",
+		"1":"Tic Tac Toe",
+		"game":"Tic Tac Toe",
+		"2":"https://demonisblack.com/code/2022/tictactoe/game/",
+		"main":"https://demonisblack.com/code/2022/tictactoe/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_tictactoe.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_tictactoe.png"
+	},
+	{
+		"0":"9",
+		"id":"9",
+		"1":"Snake Game",
+		"game":"Snake Game",
+		"2":"https://demonisblack.com/code/2022/snakegame/game/",
+		"main":"https://demonisblack.com/code/2022/snakegame/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_snakegame.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_snakegame.png"
+	},
+	{
+		"0":"8",
+		"id":"8",
+		"1":"Play Chess",
+		"game":"Play Chess",
+		"2":"https://demonisblack.com/code/2022/playchess/game/",
+		"main":"https://demonisblack.com/code/2022/playchess/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_playchess.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_playchess.png"
+	},
+  	{
+		"0":"7",
+		"id":"7",
+		"1":"Fight Virus",
+		"game":"Fight Virus",
+		"2":"https://demonisblack.com/code/2020/fightvirus/game/",
+		"main":"https://demonisblack.com/code/2020/fightvirus/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_fightvirus_game.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_fightvirus_game.png"
+	},
+  	{
+		"0":"6",
+		"id":"6",
+		"1":"Find Me",
+		"game":"Find Me",
+		"2":"https://demonisblack.com/code/2022/findme/game/",
+		"main":"https://demonisblack.com/code/2022/findme/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_findme.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_findme.png"
+	},
+ 	{
+		"0":"5",
+		"id":"5",
+		"1":"Defusethe Bomb",
+		"game":"Defusethe Bomb",
+		"2":"https://www.demonisblack.com/code/2021/defusethebomb/game/",
+		"main":"https://www.demonisblack.com/code/2021/defusethebomb/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_defusethebomb.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_defusethebomb.png"
+	},
+  	{
+		"0":"4",
+		"id":"4",
+		"1":"Drum Beats",
+		"game":"Drum Beats",
+		"2":"https://demonisblack.com/code/2019/drumbeats/game/",
+		"main":"https://demonisblack.com/code/2019/drumbeats/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_drumbeats.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_drumbeats.png"
+	},
+  	{
+		"0":"3",
+		"id":"3",
+		"1":"Millionaire Quiz",
+		"game":"Millionaire Quiz",
+		"2":"https://www.demonisblack.com/code/2020/millionairequiz/game/",
+		"main":"https://www.demonisblack.com/code/2020/millionairequiz/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_millionairequiz.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_millionairequiz.png"
+	},
+  	{
+		"0":"2",
+		"id":"2",
+		"1":"Downhill Ski",
+		"game":"Downhill Ski",
+		"2":"https://demonisblack.com/code/2022/downhillski/game/",
+		"main":"https://demonisblack.com/code/2022/downhillski/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_downhillski.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_downhillski.png"
+	},
+	{
+		"0":"1",
+		"id":"1",
+		"1":"Slot Machine",
+		"game":"Slot Machine",
+		"2":"https://demonisblack.com/code/2019/slotmachine/game/",
+		"main":"https://demonisblack.com/code/2019/slotmachine/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_slot_machine.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_slot_machine.png"
+	}]
+}
