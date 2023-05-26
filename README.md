@@ -7,10 +7,10 @@ Changelog :
 - Minimalist UI/UX
 - Auto Clearcache
 
+# Icon
+[<img alt="DIB Game Icon" title="DIB Game Icon" width="30%" src="assets/icon/ic_launcher.png" />](https://cusmedroid.github.io/dibgame) [<img alt="DIB Game Icon Round" title="DIB Game Icon Round" width="30%" src="assets/icon/ic_launcher_round.png" />](https://cusmedroid.github.io/dibgame) [<img alt="DIB Game Icon Circle" title="DIB Game Icon Circle" width="30%" src="assets/icon/ic_launcher_circle.png" />](https://cusmedroid.github.io/dibgame)
+
 ## Reference 
 ``` html
 <keyword>Free Play Game HTML5</keyword>
 ```
-
-# Icon
-[<img alt="DIB Game Icon" title="DIB Game Icon" width="30%" src="assets/icon/ic_launcher.png" />](https://cusmedroid.github.io/dibgame) [<img alt="DIB Game Icon Round" title="DIB Game Icon Round" width="30%" src="assets/icon/ic_launcher_round.png" />](https://cusmedroid.github.io/dibgame) [<img alt="DIB Game Icon Circle" title="DIB Game Icon Circle" width="30%" src="assets/icon/ic_launcher_circle.png" />](https://cusmedroid.github.io/dibgame)
