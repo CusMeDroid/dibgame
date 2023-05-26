@@ -7,7 +7,7 @@ Changelog :
 - Minimalist UI/UX
 - Auto Clearcache
 
-## Referensi 
+## Reference 
 ``` html
 <keyword>Free Play Game HTML5</keyword>
 ```
