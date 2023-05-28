@@ -2,6 +2,46 @@
 	"game":
 	[
 	{
+		"0":"25",
+		"id":"25",
+		"1":"Basket Goal",
+		"game":"Basket Goal",
+		"2":"https://s3.eponesh.com/games/3520/v19/",
+		"main":"https://s3.eponesh.com/games/3520/v19/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_basket_goal.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_basket_goal.png"
+	},
+	{
+		"0":"24",
+		"id":"24",
+		"1":"Physics Puzzle",
+		"game":"Physics Puzzle",
+		"2":"https://games.arcadialand.shop/scribbleworld/physicspuzzle/index.html",
+		"main":"https://games.arcadialand.shop/scribbleworld/physicspuzzle/index.html",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_physicspuzzle.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_physicspuzzle.png"
+	},
+	{
+		"0":"23",
+		"id":"23",
+		"1":"Olympus Keno",
+		"game":"Olympus Keno",
+		"2":"https://showcase.codethislab.com/games/olympus_keno/",
+		"main":"https://showcase.codethislab.com/games/olympus_keno/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_olympus_keno.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_olympus_keno.png"
+	},
+	{
+		"0":"22",
+		"id":"22",
+		"1":"Dice Merge",
+		"game":"Dice Merge",
+		"2":"https://makegamehtml5.pw/dice-merge/",
+		"main":"https://makegamehtml5.pw/dice-merge/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_dice_merge.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_dice_merge.png"
+	},
+	{
 		"0":"21",
 		"id":"21",
 		"1":"Poker",
