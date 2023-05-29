@@ -2,6 +2,36 @@
 	"game":
 	[
 	{
+		"0":"33",
+		"id":"33",
+		"1":"Darts Pro",
+		"game":"Darts Pro",
+		"2":"https://showcase.codethislab.com/games/darts_pro/",
+		"main":"https://showcase.codethislab.com/games/darts_pro/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_darts_pro.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_darts_pro.png"
+	},
+	{
+		"0":"32",
+		"id":"32",
+		"1":"Crossbar Challenge",
+		"game":"Crossbar Challenge",
+		"2":"https://showcase.codethislab.com/games/crossbar_challenge/",
+		"main":"https://showcase.codethislab.com/games/crossbar_challenge/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_crossbar_challenge.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_crossbar_challenge.png"
+	},
+	{
+		"0":"31",
+		"id":"31",
+		"1":"Little Panda",
+		"game":"Little Panda",
+		"2":"https://previews.customer.envatousercontent.com/files/407738530/index.html",
+		"main":"https://previews.customer.envatousercontent.com/files/407738530/index.html",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_little_panda.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_little_panda.png"
+	},
+	{
 		"0":"30",
 		"id":"30",
 		"1":"Caribbean Stud Poker",
