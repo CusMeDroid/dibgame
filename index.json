@@ -2,6 +2,36 @@
 	"game":
 	[
 	{
+		"0":"28",
+		"id":"28",
+		"1":"Get Away Ninja",
+		"game":"Get Away Ninja",
+		"2":"https://games.arcadialand.shop/getawayninja/index.html",
+		"main":"https://games.arcadialand.shop/getawayninja/index.html",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_get_away_ninja.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_get_away_ninja.png"
+	},
+	{
+		"0":"27",
+		"id":"27",
+		"1":"Farm Factory",
+		"game":"Farm Factory",
+		"2":"https://demonisblack.com/code/2022/farmfactory/game/",
+		"main":"https://demonisblack.com/code/2022/farmfactory/game/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_farmfactory.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_farmfactory.png"
+	},
+	{
+		"0":"26",
+		"id":"26",
+		"1":"Spin And Win",
+		"game":"Spin And Win",
+		"2":"https://showcase.codethislab.com/games/spin_and_win/",
+		"main":"https://showcase.codethislab.com/games/spin_and_win/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_spin_and_win.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_spin_and_win.png"
+	},
+	{
 		"0":"25",
 		"id":"25",
 		"1":"Basket Goal",
