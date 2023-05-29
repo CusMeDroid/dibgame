@@ -2,6 +2,26 @@
 	"game":
 	[
 	{
+		"0":"30",
+		"id":"30",
+		"1":"Caribbean Stud Poker",
+		"game":"Caribbean Stud Poker",
+		"2":"https://showcase.codethislab.com/games/caribbean_stud_poker/",
+		"main":"https://showcase.codethislab.com/games/caribbean_stud_poker/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_caribbean_stud_poker.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_caribbean_stud_poker.png"
+	},
+	{
+		"0":"29",
+		"id":"29",
+		"1":"Rugby Rush",
+		"game":"Rugby Rush",
+		"2":"https://showcase.codethislab.com/games/rugby_rush/",
+		"main":"https://showcase.codethislab.com/games/rugby_rush/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_rugby_rush.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_rugby_rush.png"
+	},
+	{
 		"0":"28",
 		"id":"28",
 		"1":"Get Away Ninja",
