@@ -2,6 +2,16 @@
 	"game":
 	[
 	{
+		"0":"38",
+		"id":"38",
+		"1":"Bubble Shooters",
+		"game":"Bubble Shooters",
+		"2":"https://bubble-shooters.netlify.app/",
+		"main":"https://bubble-shooters.netlify.app/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_bubble_shooters.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_bubble-shooters.png"
+	},
+	{
 		"0":"37",
 		"id":"37",
 		"1":"Fatboy Dream",
