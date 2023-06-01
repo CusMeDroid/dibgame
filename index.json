@@ -2,6 +2,46 @@
 	"game":
 	[
 	{
+		"0":"37",
+		"id":"37",
+		"1":"Fatboy Dream",
+		"game":"Fatboy Dream",
+		"2":"https://showcase.codethislab.com/games/fatboy_dream/",
+		"main":"https://showcase.codethislab.com/games/fatboy_dream/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_fatboy_dream.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_fatboy_dream.png"
+	},
+	{
+		"0":"36",
+		"id":"36",
+		"1":"Clean The Ocean",
+		"game":"Clean The Ocean",
+		"2":"https://previews.customer.envatousercontent.com/files/450478609/index.html",
+		"main":"https://previews.customer.envatousercontent.com/files/450478609/index.html",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_cleantheocean.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_cleantheocean.png"
+	},
+	{
+		"0":"35",
+		"id":"35",
+		"1":"Link The Dots",
+		"game":"Link The Dots",
+		"2":"https://showcase.codethislab.com/games/horse_racing/",
+		"main":"https://showcase.codethislab.com/games/horse_racing/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_horse_racing.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_horse_racing.png"
+	},
+	{
+		"0":"34",
+		"id":"34",
+		"1":"Link The Dots",
+		"game":"Link The Dots",
+		"2":"https://showcase.codethislab.com/",
+		"main":"https://showcase.codethislab.com/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_link_the_dots.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_link_the_dots.png"
+	},
+	{
 		"0":"33",
 		"id":"33",
 		"1":"Darts Pro",
