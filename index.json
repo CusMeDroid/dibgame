@@ -2,6 +2,26 @@
 	"game":
 	[
 	{
+		"0":"40",
+		"id":"40",
+		"1":"Snake Attack",
+		"game":"Snake Attack",
+		"2":"https://showcase.codethislab.com/games/snake_attack/",
+		"main":"https://showcase.codethislab.com/games/snake_attack/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_snake_attack.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_snake_attack.png"
+	},
+	{
+		"0":"39",
+		"id":"39",
+		"1":"Dead City",
+		"game":"Dead City",
+		"2":"https://showcase.codethislab.com/games/dead_city/",
+		"main":"https://showcase.codethislab.com/games/dead_city/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_dead_city.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_dead_city.png"
+	},
+	{
 		"0":"38",
 		"id":"38",
 		"1":"Bubble Shooters",
@@ -34,8 +54,8 @@
 	{
 		"0":"35",
 		"id":"35",
-		"1":"Link The Dots",
-		"game":"Link The Dots",
+		"1":"Horse Racing",
+		"game":"Horse Racing",
 		"2":"https://showcase.codethislab.com/games/horse_racing/",
 		"main":"https://showcase.codethislab.com/games/horse_racing/",
 		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_horse_racing.png",
@@ -44,12 +64,12 @@
 	{
 		"0":"34",
 		"id":"34",
-		"1":"Link The Dots",
-		"game":"Link The Dots",
-		"2":"https://showcase.codethislab.com/",
-		"main":"https://showcase.codethislab.com/",
-		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_link_the_dots.png",
-		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_link_the_dots.png"
+		"1":"Real Tennis",
+		"game":"Real Tennis",
+		"2":"https://showcase.codethislab.com/games/real_tennis/",
+		"main":"https://showcase.codethislab.com/games/real_tennis/",
+		"3":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_real_tennis.png",
+		"pic":"https://raw.githubusercontent.com/CusMeDroid/dibgame/main/assets/referance/ss_real_tennis.png"
 	},
 	{
 		"0":"33",
