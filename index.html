@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DIB Game</title>
+    <link rel="apple-touch-icon" href="assets/icon/ic_launcher_round.png">
+    <meta name="description" content="DIB Game is a Door in Back Game, this is a back door that makes it easy for you to find a collection of games in one application. they are only search results that have been selected and added to the list to be displayed to those of you who like to play games. It means this game is a recommendation from us. It's free and there are no purchases or payments to play the game and no monthly subscription.">
+    <meta name="keywords" content="cusmedroid, iyortml, learn php with cusmedroid, learn php with iyortml, cusmedroid android, cusmedroid developer, developer indonesia, made in indonesia, website, php, html, css, js, xml, java, api, apikey, mysqli, phpmyadmin, android studio, android-studio, barcode, livemakingbarcode, live making barcode, live making barcode cusmedroid, dibgame, DIBGame, DIB Game, dib game, Dib Game, Dib game">
+    <meta name="author" content="CusMeDroid">
+    <meta property="og:description" content="DIB Game is a Door in Back Game, this is a back door that makes it easy for you to find a collection of games in one application. they are only search results that have been selected and added to the list to be displayed to those of you who like to play games. It means this game is a recommendation from us. It's free and there are no purchases or payments to play the game and no monthly subscription.">
+    <meta property="og:image" content="assets/icon/ic_launcher_round.png">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="200">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Include link icon fontawesome -->
+    <link rel='stylesheet' href='https://cusmedroid.github.io/fontawesome-4/css/font-awesome.min.css'>
+    <!-- Include link jQuery 3.6.0 -->
+    <script type='text/javascript' src='https://cusmedroid.github.io/js/jquery-3.6.0.min.js'></script>
+  </head>
+  <body id="myCopyright">
+    <header>
+      <div class="header"><i class="fa fa-home" aria-hidden="true"></i><b style="margin-left:16px;">DIB GAME</b></div>
+    </header>
+    <div class="content lpk">
+      <table id="gamers">
+        <thead>
+          <tr>
+            <th class="rl">Title</th>
+            <th>Image</th>
+            <th class="rr"></th>
+          </tr>
+        </thead>
+        <tbody id="data_game"></tbody>
+      </table>
+    </div>
+    <footer>
+      <div class="footer">
+        <div class="row">
+          <div class="column" align="left">
+            <h2>Reference</h2>
+            <p>HTML5 Games</p>
+            <p>Games Online</p>
+            <p>Free Play Games</p>
+          </div>
+          <div class="column" align="center">
+            <h2>Follow Me</h2>
+            <p>
+              <a class="icnd" title="Instagram" alt="Instagram" href="https://instagram.com/cusmedroid"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a class="icnd" title="Github" alt="Github" href="https://github.com/CusMeDroid"><i class="fa fa-github" aria-hidden="true"></i></a>
+              <a class="icnd" title="Facebook" alt="Facebook" href="https://facebook.com/cusmedroid.team"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+            </p>
+          </div>
+          <div class="column" align="right">
+            <h2>Contact</h2>
+            <p><a style="color: white;" title="Telephone" alt="Telephone" href="tel:+6281932671715">Telephone</a></p>
+            <p><a style="color: white;" title="Email" alt="Email" href="mailto:cusmedroidteam@gmail.com">Email</a></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+    <script type="text/javascript">
+      setInterval(function(){
+      $.getJSON("https://www.cusmedroid.ink/dibgame/index.json", function(data){
+        var room_data = '';
+        $("#data_game").empty();
+          $.each(data.game, function(id, value){       
+            room_data += '<tr valign="top">';
+            room_data += '<td>'+value.game+'</td>';
+            room_data += '<td><img class="myimg" src="'+value.pic+'"></td>';
+            room_data += '<td><a class="btn_a" href="'+value.main+'">Play</a></td>';
+            room_data += '</tr>';
+          });
+          $('#data_game').append(room_data);
+        });
+      }, 1000);
+    </script>
+    <script type="text/javascript" src="https://cusmedroid.github.io/js/disclaimer.js"></script>
+  </body> 
+</html>
