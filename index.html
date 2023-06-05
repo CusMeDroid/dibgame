@@ -64,7 +64,7 @@
     
     <script type="text/javascript">
       setInterval(function(){
-      $.getJSON("https://www.cusmedroid.ink/dibgame/index.json", function(data){
+      $.getJSON("index.json", function(data){
         var room_data = '';
         $("#data_game").empty();
           $.each(data.game, function(id, value){       
