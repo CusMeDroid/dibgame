@@ -1,0 +1,2 @@
+/* Build by CusMeDroid */
+setInterval((function(){$.getJSON("index.json",(function(t){var a="";$("#data_game").empty(),$.each(t.game,(function(t,e){a+='<tr valign="top">',a+="<td>"+e.game+"</td>",a+='<td><img class="myimg" src="'+e.pic+'"></td>',a+='<td><a class="btn_a" href="https://play.google.com/store/apps/details?id=cusmedroid.github.io.dibgame">Play</a></td>',a+="</tr>"})),$("#data_game").append(a)}))}),1e3);
